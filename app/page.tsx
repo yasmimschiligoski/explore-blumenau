@@ -10,10 +10,9 @@ export default function Home() {
         cultura rica, gastronomia marcante e, claro, a maior Oktoberfest das Américas.
       </p>
       
-      {/* Imagem com tamanho fixo e borda grossa vermelha */}
       <div className="flex justify-center">
         <img 
-          src="https://www.informeblumenau.com/wp-content/uploads/2025/11/blumenau.jpg" 
+          src="/blumenau.jpg" 
           alt="Vista cultural de Blumenau" 
           className="rounded-lg shadow-md w-full h-64 object-cover border-8 border-red-600"
         />
